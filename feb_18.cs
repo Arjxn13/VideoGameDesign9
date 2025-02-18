@@ -1,4 +1,4 @@
-// I learned how to declare a variable and use variables in my strings of code
+// I learned how to declare variables like the char variable
 
 char userOption;
 
